@@ -1,4 +1,3 @@
-function name(params) {
+function HelloWorldFunc(params) {
     console.log("Hello, World!");
-    
 }
